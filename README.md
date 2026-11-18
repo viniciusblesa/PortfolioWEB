@@ -6,16 +6,6 @@ O objetivo deste projeto é reunir em um único lugar informações sobre minha 
 
 ---
 
-# 📷 Preview
-
-> Adicione aqui um print da página inicial.
-
-Exemplo:
-
-![Preview do Projeto](img/preview.png)
-
----
-
 # ✨ Funcionalidades
 
 - Layout moderno e responsivo
